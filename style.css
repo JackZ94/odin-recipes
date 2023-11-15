@@ -1,0 +1,12 @@
+#Title {
+    background-color: aqua;
+    color: white;
+    font-family: 'Times New Roman', 'Times', 'serif';
+    font-style: italic;
+}
+
+.link {
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+}
